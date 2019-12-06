@@ -68,4 +68,3 @@ class ViewController: UIViewController {
   }
 }
 
-Ciara CC Beitel has notifications turned off
